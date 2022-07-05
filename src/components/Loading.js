@@ -5,7 +5,7 @@ export default class Loading extends Component {
   render() {
     return (
       <div className='text-center'>
-        <img  src={loading} style={{width: "100px", marginTop: "100px"}} alt="" />
+        <img  src={loading} style={{width: "100px",}} alt="" />
         </div>
     )
   }
